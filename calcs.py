@@ -1,6 +1,7 @@
 """
 Some basic calculations.
 """
+import os
 
 
 def my_add_function(first_term, second_term):
